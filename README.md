@@ -1,6 +1,6 @@
-@stevensd2m/tiny
+@stevensd2m/spaces-remover
 
-[![npm (scoped)](https://img.shields.io/badge/npm-2.0.0-blue.svg)](https://github.com/stevensd2m/tiny) [![npm bundle size (minified)](https://img.shields.io/badge/minified%20size-257B-blue.svg)](https://github.com/stevensd2m/tiny)
+[![npm (scoped)](https://img.shields.io/badge/npm-2.0.0-blue.svg)](https://github.com/stevensd2m/spaces-remover) [![npm bundle size (minified)](https://img.shields.io/badge/minified%20size-257B-blue.svg)](https://github.com/stevensd2m/spaces-remover)
 
 Removes all spaces from a string.
 
@@ -8,20 +8,20 @@ Removes all spaces from a string.
 ---
 
 ```
-$ npm install @stevensd2m/tiny
+$ npm install @stevensd2m/spaces-remover
 ```
 
 ##Usage
 ---
 
 ```javascript
-const tiny = require("@stevensd2m/tiny")
+const spacesRemover = require("@stevensd2m/spaces-remover")
 
-tiny("So much space!");
+spacesRemover("So much space!");
 //=> "Somuchspace!"
 
-tiny(1337);
-//=> Uncaught TypeError: Tiny wants a string!
-//    at tiny (<anonymous>:2:41)
+spacesRemover(1337);
+//=> Uncaught TypeError: A string was expected!
+//    at spacesRemover (<anonymous>:2:41)
 //    at <anonymous>:1:1
 ```
