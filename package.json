@@ -1,15 +1,14 @@
 {
-    "name": "@stevensd2m/spaces-remover",
-    "version": "1.0.0",
-    "description": "Removes all spaces from a string",
-    "license": "MIT",
-    "repository": "stevensd2m/spaces-remover",
-    "main": "index.js",
-    "keywords": [
-      "spaces",
-      "remover",
-      "npm",
-      "package"
-    ]
-  }
-  
+  "name": "@stevensd2m/spaces-remover",
+  "version": "1.0.1",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "stevensd2m/spaces-remover",
+  "main": "index.js",
+  "keywords": [
+    "spaces",
+    "remover",
+    "npm",
+    "package"
+  ]
+}

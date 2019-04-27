@@ -1,6 +1,6 @@
 @stevensd2m/spaces-remover
 
-[![npm (scoped)](https://img.shields.io/badge/npm-2.0.0-blue.svg)](https://github.com/stevensd2m/spaces-remover) [![npm bundle size (minified)](https://img.shields.io/badge/minified%20size-257B-blue.svg)](https://github.com/stevensd2m/spaces-remover)
+[![npm (scoped)](https://img.shields.io/badge/npm-1.0.1-blue.svg)](https://github.com/stevensd2m/spaces-remover) [![npm bundle size (minified)](https://img.shields.io/badge/install%20size-2.21kB-blue.svg)](https://github.com/stevensd2m/spaces-remover)
 
 Removes all spaces from a string.
 
